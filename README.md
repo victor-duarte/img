@@ -23,6 +23,10 @@ Install dependencies:
 npm install
 ```
 
+Set the `DATABASE_URL` in the `.env` file to point to your existing database.
+
+- `DATABASE_URL`
+
 Run the development server:
 
 ```bash
@@ -47,3 +51,11 @@ To learn more about Next.js, take a look at the following resources:
 Deployments are configured.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+### Prisma
+
+[Documentation](https://www.prisma.io/docs)
+
+### PlanetScale
+
+[Documentation](https://planetscale.com/docs/tutorials/planetscale-quick-start-guide)
