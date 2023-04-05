@@ -60,6 +60,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 [Documentation](https://planetscale.com/docs/tutorials/planetscale-quick-start-guide)
 
+### Clerk
+
+[Documentation (App beta)](https://clerk.com/docs/nextjs/v13-beta)
+
 ### Tailwind
 
 [Documentation](https://tailwindcss.com/docs/installation)
